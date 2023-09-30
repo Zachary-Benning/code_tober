@@ -1,3 +1,4 @@
+theme: minimal
 # code_tober
 
 Simple -Blog- covering my fun coding practice experience during the month of october.
