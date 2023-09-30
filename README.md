@@ -1,6 +1,3 @@
-theme: minimal
-# code_tober
-
 Simple -Blog- covering my fun coding practice experience during the month of october.
 
 The vast majority of these problems come from a collection of websites and textbooks that I have.
