@@ -3,4 +3,4 @@ logo: yes or no.gif
 description: Documenting my journey through my CODE_TOBER
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-chirpy
