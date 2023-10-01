@@ -1,4 +1,5 @@
 ## Day 1 ##
+LeetCode
 Integer to Roman : 1st submission Successful: Runtime 45ms Beats 87.48%: Memory 16.30mb Beats 73.99%
 
 Roman numerals are represented by seven different symbols: I = 1, V = 5, X = 10, L = 50, C = 100, D = 500 and M = 1000.
@@ -39,4 +40,48 @@ class Solution:
             elif current_total < 0:
                 print('ERROR < 0')
                 return 0
+'''
+LeetCode
+Find the Index of the first occurrence in a String: 3rd submission Successful and optimized : Runtime 29ms Beats 96.14% : Memory 16.18 MB Beats 84.45%
+
+Given two strings -needle- and -haystack-, return the first occurrence of needle in haystack.
+
+INPUT: haystack: str, needle: str
+Output: index: int  NOTE: -1 if no occurrence.
+
+Constraints 1 <= haystack.length, needle.length <= 10^4
+haystack and needle consist of only lowercase English characters
+
+Examples:
+INPUT: haystack = "sadbutsad", needle = "sad"
+OUTPUT: 0
+
+INPUT: haystack = "leetcode", needle = "leeto"
+output = -1
+
+My Solution
+Time Complexity O(n) where n is length of haystack
+
+'''
+class Solution:
+    
+    def strStr(self, haystack: str, needle: str) -> int:
+        #  Case: Where strs are same length
+        if len(haystack) == len(needle) and haystack == needle:
+            return 0
+        
+        #  Case: Where needle is single char
+        if len(needle) == 1:
+            for idx in range(len(haystack)):
+                if haystack[idx] == needle:
+                    return idx    
+
+        #  General Case
+        for idx in range(len(haystack) - len(needle) + 1):
+            if haystack[idx] == needle[0] and haystack[idx + len(needle) - 1] == needle[-1]:
+                if haystack[idx:idx + len(needle)] == needle:
+                    return idx
+        return -1
+
+
 '''
