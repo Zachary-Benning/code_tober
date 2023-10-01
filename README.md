@@ -36,4 +36,4 @@ Step 4
   - Review and study a single system design
   - Report it to the code_tober blog.
 
-test [Magical_place](https://www.google.com)
+test [Magical_place](Day_1.md)
