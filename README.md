@@ -1,6 +1,7 @@
 Rebel to rejection.
 Reject to be a renegade.
-CODE_TOBER
+Do it because it pushes past what you think you can do.
+NO GAMES, NO Leisure, JUST CODING PUZZLES/Problems!
 
 Simple -Blog- covering my fun coding practice experience during the month of october.
 
