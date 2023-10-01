@@ -9,4 +9,20 @@ This is by no means an exhaustive set of concepts or skills required for a maste
 This will be my first year sharing this experience so fun times
 
 # Schema of Code_tober
---- Pending
+8 Algorithmic interview style questions a day.
+1 System Design concept a day studied and reviewed
+NO AI SUPPORT
+NO STACK SUPPORT
+
+Step 1
+  - Do Problem on paper/whiteboard.
+  - Code and check
+  - Write thoughts and time complexity
+Step 2
+  - Post to Code_tober blog
+Step 3
+  - Create Flash card with optimal solution (can use internet for this step)
+      - optimal solutions within reason.  That is no code golfing style approaches.
+Step 4
+  - Review and study a single system design
+  - Report it to the code_tober blog.
