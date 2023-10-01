@@ -1,7 +1,8 @@
 Rebel to rejection.
 Reject to be a renegade.
 Do it because it pushes past what you think you can do.
-NO GAMES, NO Leisure, JUST CODING PUZZLES/Problems!
+NO GAMES, NO Leisure, JUST CODING PUZZLES/Problems for 31 days straight.  
+Code more in 31 days than you have in the past year!
 
 Simple -Blog- covering my fun coding practice experience during the month of october.
 
