@@ -18,11 +18,14 @@ Step 1
   - Do Problem on paper/whiteboard.
   - Code and check
   - Write thoughts and time complexity
+
 Step 2
   - Post to Code_tober blog
+
 Step 3
   - Create Flash card with optimal solution (can use internet for this step)
       - optimal solutions within reason.  That is no code golfing style approaches.
+
 Step 4
   - Review and study a single system design
   - Report it to the code_tober blog.
