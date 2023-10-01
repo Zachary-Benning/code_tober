@@ -14,6 +14,7 @@ f(58) = "LVIII"
 f(1994) = "MCMXCIV"
 
 MY SOLUTION
+Time complexity O(1)
 '''
 class Solution:
     def intToRoman(self, nums: int) -> str:
